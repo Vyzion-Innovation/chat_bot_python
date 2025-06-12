@@ -1,0 +1,82 @@
+[
+  {
+    "model": "chatbot.faq",
+    "pk": 1,
+    "fields": {
+      "question": "What is your name?",
+      "answer": "I am a chatbot created to assist you."
+    }
+  },
+  {
+    "model": "chatbot.faq",
+    "pk": 2,
+    "fields": {
+      "question": "How can I contact support?",
+      "answer": "You can contact support via email at support@example.com."
+    }
+  },
+  {
+    "model": "chatbot.faq",
+    "pk": 3,
+    "fields": {
+      "question": "What services do you offer?",
+      "answer": "We offer chatbot, automation, and AI integration services."
+    }
+  },
+  {
+    "model": "chatbot.faq",
+    "pk": 4,
+    "fields": {
+      "question": "Where are you located?",
+      "answer": "We are based in Bangalore, India."
+    }
+  },
+  {
+    "model": "chatbot.faq",
+    "pk": 5,
+    "fields": {
+      "question": "How do I reset my password?",
+      "answer": "Click on 'Forgot Password' on the login page."
+    }
+  },
+  {
+    "model": "chatbot.faq",
+    "pk": 6,
+    "fields": {
+      "question": "Is your service free?",
+      "answer": "We offer both free and premium plans."
+    }
+  },
+  {
+    "model": "chatbot.faq",
+    "pk": 7,
+    "fields": {
+      "question": "What languages do you support?",
+      "answer": "Currently, I support English."
+    }
+  },
+  {
+    "model": "chatbot.faq",
+    "pk": 8,
+    "fields": {
+      "question": "Can I talk to a human?",
+      "answer": "Sure, please leave your contact, and a human will reach out."
+    }
+  },
+  {
+    "model": "chatbot.faq",
+    "pk": 9,
+    "fields": {
+      "question": "What is the refund policy?",
+      "answer": "Refunds are processed within 7 working days."
+    }
+  },
+  {
+    "model": "chatbot.faq",
+    "pk": 10,
+    "fields": {
+      "question": "How do I create an account?",
+      "answer": "Click 'Sign up' and fill the form."
+    }
+  }
+]
